@@ -1,0 +1,36 @@
+antecedents,consequents,support,confidence,lift
+"frozenset({'Medium Study', 'IT'})",frozenset({'Low Engagement'}),0.13090478305938102,0.9822222222222223,1.0057538539297448
+"frozenset({'Medium Study', 'Beginner'})",frozenset({'Low Engagement'}),0.12897971272027248,0.9819616685456597,1.0054870580271176
+"frozenset({'Completed', 'Medium Study'})",frozenset({'Low Engagement'}),0.14556493410336147,0.9810379241516967,1.0045411829865667
+frozenset({'Medium Study'}),frozenset({'Low Engagement'}),0.3320005923293351,0.9807524059492564,1.0042488244693446
+"frozenset({'Completed', 'Intermediate'})",frozenset({'Low Engagement'}),0.18169702354509107,0.9800319488817891,1.0035111070202762
+"frozenset({'Intermediate', 'Ongoing'})",frozenset({'Low Engagement'}),0.12113134903006072,0.9796407185628743,1.003110503783941
+frozenset({'Advanced'}),frozenset({'Low Engagement'}),0.185250999555753,0.9796397807361003,1.003109543489141
+"frozenset({'Medium Study', 'Intermediate'})",frozenset({'Low Engagement'}),0.14215904042647712,0.979591836734694,1.003060450867231
+frozenset({'Arts'}),frozenset({'Low Engagement'}),0.10276913964164075,0.9788434414668546,1.0022941258871372
+"frozenset({'Dropped', 'IT'})",frozenset({'Low Engagement'}),0.10913667999407671,0.9787516600265604,1.002200145588986
+frozenset({'Business'}),frozenset({'Low Engagement'}),0.20968458462905376,0.9779005524861879,1.0013286476026122
+frozenset({'Completed'}),frozenset({'Low Engagement'}),0.4300310972900933,0.9777777777777777,1.001202931513773
+frozenset({'Intermediate'}),frozenset({'Low Engagement'}),0.42336739227010217,0.9777701778385772,1.0011951494986977
+"frozenset({'High Study', 'IT'})",frozenset({'Low Engagement'}),0.13282985339848957,0.977124183006536,1.0005336782173067
+"frozenset({'IT', 'Intermediate'})",frozenset({'Low Engagement'}),0.16999851917666223,0.9770212765957447,1.0004283064216928
+"frozenset({'High Study', 'Intermediate'})",frozenset({'Low Engagement'}),0.144676440100696,0.977,1.000406520090978
+"frozenset({'Completed', 'IT'})",frozenset({'Low Engagement'}),0.16955427217532948,0.9769624573378839,1.0003680779988977
+frozenset({'Ongoing'}),frozenset({'Low Engagement'}),0.2680290241374204,0.9767943874797624,1.0001959815998234
+"frozenset({'Intermediate', 'Low Study'})",frozenset({'Low Engagement'}),0.13653191174292906,0.9766949152542371,1.0000941262641188
+frozenset({'IT'}),frozenset({'Low Engagement'}),0.3847179031541537,0.9766917293233083,1.0000908640061108
+"frozenset({'Completed', 'Low Study'})",frozenset({'Low Engagement'}),0.13460684140382054,0.9763694951664876,0.9997609099104308
+"frozenset({'Completed', 'High Study'})",frozenset({'Low Engagement'}),0.1498593217829113,0.9758919961427195,0.9992719711829848
+frozenset({'High Study'}),frozenset({'Low Engagement'}),0.33703539167777286,0.9755679382768967,0.9989401496867146
+frozenset({'Dropped'}),frozenset({'Low Engagement'}),0.2785428698356286,0.9746113989637305,0.9979606940412543
+"frozenset({'IT', 'Ongoing'})",frozenset({'Low Engagement'}),0.10602695098474751,0.9741496598639455,0.9974878928068573
+"frozenset({'Dropped', 'Beginner'})",frozenset({'Low Engagement'}),0.10439804531319413,0.973756906077348,0.9970857296042959
+frozenset({'Beginner'}),frozenset({'Low Engagement'}),0.3679845994372871,0.9737460815047021,0.9970746457014789
+frozenset({'Low Study'}),frozenset({'Low Engagement'}),0.30756700725603436,0.9732895970009372,0.9966072249503152
+"frozenset({'Completed', 'Beginner'})",frozenset({'Low Engagement'}),0.16481563749444691,0.9729020979020979,0.996210442324923
+"frozenset({'Dropped', 'Intermediate'})",frozenset({'Low Engagement'}),0.12053901969495039,0.972520908004779,0.9958201200540215
+"frozenset({'Beginner', 'IT'})",frozenset({'Low Engagement'}),0.14067821708870132,0.9723643807574206,0.995659842798311
+frozenset({'Science'}),frozenset({'Low Engagement'}),0.18495483488819783,0.9719844357976654,0.9952707952906192
+"frozenset({'Beginner', 'Low Study'})",frozenset({'Low Engagement'}),0.11165407966829557,0.9703989703989704,0.9936473460355189
+"frozenset({'IT', 'Low Study'})",frozenset({'Low Engagement'}),0.12098326669628313,0.9703087885985748,0.993555003700709
+"frozenset({'High Study', 'Beginner'})",frozenset({'Low Engagement'}),0.1273508070487191,0.9684684684684686,0.9916705940208594
